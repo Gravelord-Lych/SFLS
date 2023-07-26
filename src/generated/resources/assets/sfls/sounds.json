@@ -1,0 +1,8 @@
+{
+  "item.math_paper.use": {
+    "subtitle": "subtitles.sfls:item.math_paper.use",
+    "sounds": [
+      "random/bow"
+    ]
+  }
+}
